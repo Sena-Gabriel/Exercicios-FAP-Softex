@@ -1,0 +1,11 @@
+se aristoteles não é 1º em quimica e platão acertou mais que ele em matematica, ele só pode ser 1º em fisica
+
+se sócrates perdeu para platão em física e aristoteles já é o 1º, eles são, respectivamente, 3º, 2º e 1º
+
+se platão acertou mais q aristoteles em matemática e não pode ser 2º novamente, ele é 1º e se sócrates não pode ser 3º novamente, ele é 2º e aristoteles 3º.
+
+logo, por eliminação, Sócrates foi o 1º em quimica, seguido por aristóteles e platão, respectivamente.
+
+
+
+

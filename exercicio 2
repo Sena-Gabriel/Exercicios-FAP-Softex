@@ -1,0 +1,2 @@
+De acordo com as imagens, o professor sempre posiciona 2 alunos que gostam de uma matéria em cada fileira (coluna) e completa os lugares vagos com alunos que gostam da outra matéria.
+Assim, ele pode identificar que o 3º aluno (de baixo pra cima) da fileira 3 e o 2º aluno da fileira 5 trocaram de lugar, pois a troca quebrou sua lógica de disposição dos lugares.

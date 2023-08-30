@@ -16,3 +16,4 @@ if (qFaltas >= 3) {
   window.alert(['O aluno ',nome,' está REPROVADO por média.'].join(''));
 } else {
   window.alert('ERRO. Verifique as informações e tente novamente.');
+}

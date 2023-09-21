@@ -3,13 +3,13 @@
 
 2
 var
-Nome, Endereco: caractere
+Nome, Endereço: caractere
 CPF, RG: inteiro
 Altura: real
 
 3
-Nome <- "José Almeida da Silva"
+Nome <- "José Almeida F. da Silva"
 CPF <- 12345678900
 RG <- 9517530
 Altura <- 1.78
-Endereco <- "Rua A, 380 – Centro – Recife/PE"
+Endereço <- "Rua A, 380 – Centro – Recife/PE"

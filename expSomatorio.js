@@ -10,8 +10,16 @@ function expSomatorio(n) {
   return r
 }
 
+function expSomatorioRec(n) {
+  if(n === 1){
+    return 1
+  }
+  else{
+    return expSomatorioRec(n-1) + (2*n-1)
+  }
+  
+}
 var n, resultado = 0
-
 var pessoa = prompt(`Informe seu nome:  `)
 
 ola(pessoa);
@@ -19,10 +27,10 @@ ola(pessoa);
 n = parseInt(prompt(`informe um numero inteiro maior que 0: `))
 
 if (n >= 0) {
-  expSomatorio(n);
+  expSomatorioRec(n);
 
-  console.log(`${n}² = ${resultado}`)
+  alert(`${n}² = ${resultado}`)
 
 } else {
-  console.log(`numero invalido!`)
+  alert(`numero invalido!`)
 }

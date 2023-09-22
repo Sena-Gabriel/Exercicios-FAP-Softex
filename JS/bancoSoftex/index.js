@@ -14,4 +14,4 @@ let contaEgito = new Conta(clieEgito, 4321, agSoftex, 1250.00)
 contaEgito.depositar(200);
 contaEgito.sacar(500);
 
-console.log(contaEgito);
+console.log(contaEgito.mostrarExtrato);

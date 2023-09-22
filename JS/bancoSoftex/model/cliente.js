@@ -9,4 +9,7 @@ export class Cliente{
     this.telefone = telefone;
     this.end = end;
   }
+  toString(){
+  return 
+  }
 }

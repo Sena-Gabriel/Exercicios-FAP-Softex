@@ -1,6 +1,8 @@
-export const TIPOTRANSACAO = {
-  debitar : "DÉBITO",
-  creditar : "CRÉDITO",
-  transferir : "TRANSFERÊNCIA",
-  pagar : "PAGAMENTO"
+export const TIPOTRANS = {
+    debito : "DEBITO  ",
+    deposito : "DEPOSITO",
+    transferencia : "TRANSFERENCIA",
+    pagamento : "PAGAMENTO",
+    render : "RENDIMENTO",
+    cobrarTaxa : "TARIFAÇÃO"
 }
